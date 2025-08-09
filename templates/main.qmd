@@ -1,0 +1,23 @@
+---
+title: Title
+# subtitle: 
+author: 
+  - name:
+      given: First
+      family: Last
+date: today
+date-format: long
+echo: false
+number-sections: true
+colorlinks: true
+format: 
+  pdf:
+    sansfont: "Garamond"
+    toc: false
+    fig-align: center
+    fig-pos: 'h'
+    # link-citations: true
+    # bibliography: references.bib
+---
+
+
